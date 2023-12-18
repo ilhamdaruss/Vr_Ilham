@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Arial Rounded MT Bold";
+   src: url("fonts/Arial Rounded MT Bold.eot") format("embedded-opentype"), url("fonts/Arial Rounded MT Bold.TTF") format("truetype"), url("fonts/Arial Rounded MT Bold.woff") format("woff"), url("fonts/Arial Rounded MT Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
